@@ -11,7 +11,8 @@ const hablar = (nombre) => {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
       console.log(`Hablando con ${nombre}`);
-      reject('Error');
+    //   Comentar linea para que el catch no entre
+    //   reject('Error');
       resolve(nombre);
     }, 1000);
   })
