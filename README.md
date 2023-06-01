@@ -1,2 +1,3 @@
 # fundamentos_node
-Repo del curso de Fundamentos de NodeJS de Platzi GG
+
+### Repo construido sobre el Curso de Fundamentos de NodeJS, impartido por [Platzi](https://platzi.com/cursos/fundamentos-node/)
